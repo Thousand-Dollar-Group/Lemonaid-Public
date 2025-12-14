@@ -61,9 +61,6 @@ The system is deployed on a highly available, serverless architecture using Amaz
 | Brian  | Backend Implementation, Data Processing                | [Github](https://github.com/LinkouCommander) |
 | Duncan | Frontend Implementation                                | [Github](https://github.com/DuncanShuo)      |
 | Benson | Frontend Implementation                                | [Github](https://github.com/Bisonlee)        |
-| Aaron  | Frontend Implementation                                |                                              |
-
-_(Note: One former contributor prefer its name not be displayed here.)_
 
 ---
 
